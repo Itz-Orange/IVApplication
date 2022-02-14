@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35316890061",
+    "project_id": "iv-therapy-15ced",
+    "storage_bucket": "iv-therapy-15ced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35316890061:android:f59294c414db64eba26c84",
+        "android_client_info": {
+          "package_name": "com.apps.ivapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35316890061-f23msqcud33lu5nh5gm1n34mmauh7p7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsjDlzG4GYAC1ibPckGe0K8Y-MMUY_oEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35316890061-f23msqcud33lu5nh5gm1n34mmauh7p7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
